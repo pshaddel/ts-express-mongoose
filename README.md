@@ -5,9 +5,9 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pshaddel/ts-express-mongoose/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](https://github.com/pshaddel/ts-express-mongoose/compare)
 
-# TS Express Prisma
+# TS Express Mongoose
 
-<b>A Boilerplate for Express Apps with Prisma</b>
+<b>A Boilerplate for Express Apps with Mongoose</b>
 
 ## Prerequisites
 
